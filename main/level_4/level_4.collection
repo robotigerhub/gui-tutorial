@@ -1,6 +1,6 @@
 name: "level_4"
 instances {
-  id: "level"
+  id: "level_4"
   prototype: "/main/level.go"
   position {
     x: 0.0
@@ -35,6 +35,8 @@ embedded_instances {
   "    y: 0.0\n"
   "    z: 0.0\n"
   "    w: 1.0\n"
+  "  }\n"
+  "  property_decls {\n"
   "  }\n"
   "}\n"
   ""
