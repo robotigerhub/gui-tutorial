@@ -18,6 +18,7 @@ embedded_components {
   type: "collectionfactory"
   data: "prototype: \"/main/brick/brick.collection\"\n"
   "load_dynamically: false\n"
+  "dynamic_prototype: false\n"
   ""
   position {
     x: 0.0
